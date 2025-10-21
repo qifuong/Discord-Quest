@@ -100,7 +100,7 @@ pip install psutil pyperclip pyautogui pygetwindow pypiwin32
 ## 🏁 Chạy chương trình
 
 ```bash
-python discord_bypass_vn_fix.py
+python discord.py
 ```
 
 Khi giao diện mở ra, làm theo hướng dẫn hiển thị trên màn hình.
